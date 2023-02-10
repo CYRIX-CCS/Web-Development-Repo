@@ -1,0 +1,21 @@
+.layout{
+    text-align: center;
+    font-size: 50px;
+}
+.input{
+    width: 550px;
+    border-radius: 30px;
+    height: 37px;
+    padding-bottom: -20px;
+    border-color: white;
+}
+h1{
+    font-family: sans-serif;
+    padding: 100px 50px;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.95e0ba6919e7b04ba2f0219f4c95e9fa?rik=Y3ei1ZvPGxEZ%2bg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f9%2f1%2f5%2f827661-free-google-desktop-background-1920x1080.jpg&ehk=93gqPdMvQTi9%2fn4qDELfY7A30%2fC%2bR4gXTMVi4XRR35s%3d&risl=&pid=ImgRaw&r=0);
+}
+.form{
+    margin-top: auto;
+}
